@@ -98,19 +98,3 @@ Use all the machine learning model steps and fit a suitable model.
 | Variable Name | Description |
 |---------------|-------------|
 | DoctorInCharge | Confidential field marked "XXXConfid" for all patients |
-
-## Project Timeline
-
-| Milestone | Duration | Task Start - End Date |
-|-----------|----------|----------------------|
-| Kick off and Business Objective discussion | 1 Day | 02-12-2025 |
-| EDA | 1 Week | 09-12-2025 |
-| Model Building | 1 Week | 16-12-2025 |
-| Deployment | 1 Week | 23-12-2025 |
-| Final presentation | 1 Week | 30-12-2025 |
-
-## Protocols
-
-- All participants should adhere to agreed timelines, which will not be extended
-- All the documentation – Final presentation and python code to be submitted before the final presentation day
-- All the participants must attend review meetings
